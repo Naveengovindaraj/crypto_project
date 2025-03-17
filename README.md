@@ -14,6 +14,8 @@ Django Signals for Logging
 - Simple JWT Authentication
 - CoinGecko API for Crypto Prices  
 
+find crytpo_management.sql file attached on this folder
+
 1.pip install -r requirements.txt
 
 2.python manage.py migrate
