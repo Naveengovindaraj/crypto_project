@@ -1,0 +1,11 @@
+setuptools==75.1.0
+django
+djangorestframework
+mysqlclient
+django-storages
+django-cors-headers
+requests
+django-filter
+djangorestframework-simplejwt
+celery
+redis
